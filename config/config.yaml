@@ -1,5 +1,5 @@
 # your domain
-domain: example.com
+domain: usbbr.ga
 
 # database url
 database_url: ""
@@ -13,4 +13,4 @@ source-files:
   # use local file
   - source.yaml
   # use web file
-  - https://example.com/source.yaml
+  - https://usbbr.ga/source.yaml
